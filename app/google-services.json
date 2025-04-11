@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "352892411480",
+    "firebase_url": "https://studentgroup-a3a7a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "studentgroup-a3a7a",
+    "storage_bucket": "studentgroup-a3a7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352892411480:android:6368aaa8e7e6622608342d",
+        "android_client_info": {
+          "package_name": "com.example.studentgroup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnYi3yYZxMzHpGDBHChtnOQzBmtJJkrmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
